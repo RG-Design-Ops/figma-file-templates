@@ -1,0 +1,9 @@
+🪆 Cover & readme
+⚡️ Quick Start
+📚 Documentation
+➽ CORE________________________
+🔤  Typography
+🎨  Colours
+🧩 Components
+⇓ options______________________
+🗄 Archive
