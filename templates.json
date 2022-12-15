@@ -1,0 +1,10 @@
+{
+    "product-design" : {
+      "name" : "Product design",
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/product-design.txt"
+    },
+    "library" : {
+      "name" : "Library",
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/library.txt"
+    }
+}
