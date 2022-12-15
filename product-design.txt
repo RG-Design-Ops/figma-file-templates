@@ -1,0 +1,11 @@
+🪆 Cover & read me
+➽ CORE________________________
+C1 🚀 Hand off
+C2 🏗 Exploration
+C3 🧩 local components
+C4 🗄 Archive
+⇓ options______________________
+O1  🗺 Flow
+O2 🕹 Prototype
+O3 🔦  Benchmark
+O4 🎢 Reviews
