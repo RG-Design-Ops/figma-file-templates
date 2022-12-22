@@ -5,6 +5,5 @@
 🔤  Typography
 🎨  Colours
 🧩 Components
-🧩 Components 2
 ⇓ options______________________
 🗄 Archive
