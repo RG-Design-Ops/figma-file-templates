@@ -1,17 +1,17 @@
 🪆 Cover & read me
-------------------
+---
 🚀 Hand off
        ↳ 🛠️ Work in progress
              ↳ ✅ Done
-------------------
+---
 🏗️ Explorations
-------------------
+---
 🕹️ Prototypes
-------------------
+---
 🌊 Flows
 📚 Benchmarks & Studies
 🎢 Reviews
-------------------
+---
 🧩 Local components
-------------------
+---
 📦 Archives
