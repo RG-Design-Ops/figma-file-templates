@@ -1,10 +1,10 @@
 🪆 Cover & readme
-------------------
+---
 ⚡️ Quick Start
 📚 Documentation
-------------------
+---
 🔤 Typography
 🎨 Colours
 🧩 Components
-------------------
+---
 📦 Archives
