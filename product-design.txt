@@ -1,9 +1,9 @@
 🚀 HAND-OFF
-🏗 EXPLORATION
-↳ 🛠 your first attempt
+---
+🏗️ EXPLORATION
+  ↳ 🛠 your first attempt
 ---
 ❖ LOCAL COMPONENTS
 ---
 🍿 CONTRIBUTORS
 🎬 COVER
----
