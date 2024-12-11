@@ -1,18 +1,18 @@
 {
     "product-design light" : {
       "name" : "Product design Light",
-      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/product-design-light.txt"
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/product-design-light.txt"
     },
     "product-design full" : {
       "name" : "Product design Full",
-      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/product-design-full.txt"
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/product-design-full.txt"
     },
     "guerilla-test" : {
       "name" : "Guerilla Test",
-      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/guerilla-test.txt"
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/guerilla-test.txt"
     },
     "library" : {
       "name" : "Library",
-      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/library.txt"
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/library.txt"
     }
 }
