@@ -1,17 +1,9 @@
-🪆 Cover & read me
+🚀 HAND-OFF
+🏗 EXPLORATION
+↳ 🛠 your first attempt
 ---
-🚀 Hand off
-       ↳ 🛠️ Work in progress
-             ↳ ✅ Done
+❖ LOCAL COMPONENTS
 ---
-🏗️ Explorations
+🍿 CONTRIBUTORS
+🎬 COVER
 ---
-🕹️ Prototypes
----
-🌊 Flows
-📚 Benchmarks & Studies
-🎢 Reviews
----
-🧩 Local components
----
-📦 Archives
