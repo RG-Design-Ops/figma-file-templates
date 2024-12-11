@@ -1,7 +1,15 @@
 {
-    "product-design" : {
-      "name" : "Product design",
-      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/product-design.txt"
+    "product-design light" : {
+      "name" : "Product design Light",
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/product-design-light.txt"
+    },
+    "product-design full" : {
+      "name" : "Product design Full",
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/product-design-full.txt"
+    },
+    "guerilla-test" : {
+      "name" : "Guerilla Test",
+      "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/guerilla-test.txt"
     },
     "library" : {
       "name" : "Library",
