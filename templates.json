@@ -1,6 +1,6 @@
 {
-    "product-design light" : {
-      "name" : "Product design",
+    "product-design" : {
+      "name" : "Product Design",
       "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/product-design.txt"
     },
     "guerilla-test" : {
