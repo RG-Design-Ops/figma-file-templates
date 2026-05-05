@@ -10,5 +10,9 @@
     "library" : {
       "name" : "Library",
       "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/library.txt"
+    },
+    "one-design-team" : {
+        "name" : "One Design Team",
+        "url" : "https://raw.githubusercontent.com/RG-Design-Ops/figma-file-templates/main/templates/One-Design-Team.txt"
     }
 }
